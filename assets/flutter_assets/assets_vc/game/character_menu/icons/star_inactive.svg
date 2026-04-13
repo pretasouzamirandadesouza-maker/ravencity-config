@@ -1,0 +1,9 @@
+<svg width="34" height="32" viewBox="0 0 34 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Star" opacity="0.15" d="M16.9132 0.499839L20.7899 12.2269L33.1409 12.1638L23.1858 19.4746L27.0625 31.2017L17.0332 23.993L7.07804 31.3038L10.8347 19.5377L0.805425 12.329L13.1565 12.2659L16.9132 0.499839Z" fill="url(#paint0_radial_1_1838)"/>
+<defs>
+<radialGradient id="paint0_radial_1_1838" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17 17.4996) rotate(89.7073) scale(25.7931)">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

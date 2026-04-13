@@ -1,0 +1,33 @@
+<svg width="218" height="218" viewBox="0 0 218 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ii_1125_8470)">
+<path d="M0 56.4903C0 44.0693 10.0693 34 22.4903 34L218 34V184H22.4903C10.0693 184 0 173.931 0 161.51V56.4903Z" fill="url(#paint0_linear_1125_8470)"/>
+<path d="M0 56.4903C0 44.0693 10.0693 34 22.4903 34L218 34V184H22.4903C10.0693 184 0 173.931 0 161.51V56.4903Z" fill="url(#paint1_radial_1125_8470)"/>
+</g>
+<path d="M22.4902 36.249H215.751V181.751H22.4902C11.3114 181.751 2.24908 172.689 2.24902 161.51V56.4902C2.24908 45.3114 11.3114 36.2491 22.4902 36.249Z" stroke="#DAA86C" stroke-width="4.49807"/>
+<defs>
+<filter id="filter0_ii_1125_8470" x="0" y="21.9302" width="218" height="162.07" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-33.7355"/>
+<feGaussianBlur stdDeviation="6.03491"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.552885 0 0 0 0 0.423878 0 0 0 0 0 0 0 0 0.11 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_1125_8470"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="6.03491"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.813221 0 0 0 0 0.466346 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_1125_8470" result="effect2_innerShadow_1125_8470"/>
+</filter>
+<linearGradient id="paint0_linear_1125_8470" x1="95.9999" y1="34" x2="95.9999" y2="184" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F7C188"/>
+<stop offset="1" stop-color="#FFC793"/>
+</linearGradient>
+<radialGradient id="paint1_radial_1125_8470" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(95.9999 184) rotate(-90) scale(87.5 94.8174)">
+<stop stop-color="#FFD2A3"/>
+<stop offset="1" stop-color="#F7C188" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
