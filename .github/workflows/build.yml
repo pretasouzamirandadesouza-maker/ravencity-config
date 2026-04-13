@@ -19,14 +19,13 @@ jobs:
 
       - name: Instalar apktool
         run: |
-          wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.9.3.jar -O apktool.jar
+          wget https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar -O apktool.jar
           sudo wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool -O /usr/local/bin/apktool
           sudo chmod +x /usr/local/bin/apktool
           sudo mv apktool.jar /usr/local/bin/apktool.jar
 
-      - name: Build
+      - name: Build APK
         run: |
-          cd .
           apktool b . -o RavenCity-unsigned.apk
 
       - name: Assinar APK
